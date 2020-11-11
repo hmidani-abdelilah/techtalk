@@ -36,6 +36,8 @@ sudo apt-get install cockpit-machines
 
 !!!Internal Mirror use any ubuntu real mirror !!!
 wget http://mirror.watteel.lan/ubuntu/ubuntu-18.04.2-live-server-amd64.iso
+# or 
+wget https://releases.ubuntu.com/20.04.1/ubuntu-20.04.1-live-server-amd64.iso
 path: /home/piwi/ubuntu-18.04.2-live-server-amd64.iso
 
 ### Cockpit Applications and updates
