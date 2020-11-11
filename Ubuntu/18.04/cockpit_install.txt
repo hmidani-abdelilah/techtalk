@@ -35,7 +35,7 @@ sudo apt-get install qemu-kvm kvmtool
 sudo apt-get install cockpit-machines
 
 !!!Internal Mirror use any ubuntu real mirror !!!
-wget http://mirror.watteel.lan/ubuntu/ubuntu-18.04.2-live-server-amd64.iso
+wget https://releases.ubuntu.com/18.04/ubuntu-18.04.5-live-server-amd64.iso
 # or 
 wget https://releases.ubuntu.com/20.04.1/ubuntu-20.04.1-live-server-amd64.iso
 path: /home/piwi/ubuntu-18.04.2-live-server-amd64.iso
