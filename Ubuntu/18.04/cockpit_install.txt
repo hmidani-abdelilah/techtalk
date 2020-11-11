@@ -31,6 +31,9 @@ sudo ufw disable
 
 ### Virtual Machine manager
 sudo apt-get install qemu-kvm kvmtool
+sudo apt install qemu qemu-kvm libvirt-clients libvirt-daemon-system virtinst bridge-utils
+sudo apt-get install virt-viewer
+
 
 sudo apt-get install cockpit-machines
 
