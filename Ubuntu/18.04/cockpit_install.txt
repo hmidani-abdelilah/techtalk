@@ -45,3 +45,5 @@ path: /home/piwi/ubuntu-18.04.2-live-server-amd64.iso
 
 ### Cockpit Applications and updates
 sudo apt-get install cockpit-packagekit
+https://ostechnix.com/install-and-configure-kvm-in-ubuntu-20-04-headless-server/
+https://ostechnix.com/manage-kvm-virtual-machines-using-cockpit-web-console/
